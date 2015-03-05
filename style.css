@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Revanche
+ Theme URI:    http://lucilio.net/trabalhos/revanche
+ Description:  Tema do site da Revanche Produções
+ Author:       Lucilio Correia
+ Author URI:   http://lucilio.net
+ Template:     virtue
+ Version:      0.0.1
+ Tags:         portfolio, grid, logo, banner
+ Text Domain:  revanche
+*/
+
+
+@import url("../virtue/style.css");
+
+
+/* O Virtue tem entrada nas configurações para CSS personalizado. 
+Esse tema-filho é apenas para a personalização de filtros e ações.
+-------------------------------------------------------------- */
+
