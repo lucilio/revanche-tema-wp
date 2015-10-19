@@ -4,14 +4,14 @@
  Description:  Tema do site da Revanche Produções
  Author:       Lucilio Correia
  Author URI:   http://lucilio.net
- Template:     virtue
+ Template:     virtue_premium
  Version:      0.0.1
  Tags:         portfolio, grid, logo, banner
  Text Domain:  revanche
 */
 
 
-@import url("../virtue/style.css");
+@import url("../virtue_premium/style.css");
 
 
 /* O Virtue tem entrada nas configurações para CSS personalizado. 
